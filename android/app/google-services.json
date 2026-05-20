@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "924775096997",
+    "project_id": "cravory-food-delivery-app",
+    "storage_bucket": "cravory-food-delivery-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924775096997:android:84ae2d7655ab1b9f18a34c",
+        "android_client_info": {
+          "package_name": "com.example.cravory"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA32ruLovXnS9kqPrE8YvAA0QIJ0LYAYWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,16 +1,39 @@
-# cravory
+# Cravory - Food Delivery App
 
-A new Flutter project.
+Cravory is a Flutter Firebase food delivery app with Customer, Admin, and Delivery panels.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Firebase Authentication
+- Role-based access: Customer, Admin, Delivery
+- Restaurant listing
+- Food item listing
+- Cart and checkout
+- Coupons
+- Order placement
+- Order tracking
+- Reviews and ratings
+- Favourites
+- Notifications
+- Admin dashboard
+- Delivery dashboard
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- Firebase Authentication
+- Cloud Firestore
+- Riverpod
+- GoRouter
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Panels
+
+### Customer
+Customers can browse restaurants, add food items to cart, apply coupons, place orders, track orders, review restaurants, and manage profile/address.
+
+### Admin
+Admin can view orders, update order status, add restaurants, and add food items.
+
+### Delivery
+Delivery partner can view active orders and update delivery status.

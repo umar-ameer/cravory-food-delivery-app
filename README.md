@@ -40,9 +40,11 @@ Delivery partner can view active orders and update delivery status.
 
 ## Screenshots
 
-![Home Screen](assets/screenshots/Homescreen.png)
+![Splash Screen](assets/screenshots/Splashscreen.png)
 
 ![Login Screen](assets/screenshots/Login.png)
+
+![Home Screen](assets/screenshots/Homescreen.png)
 
 ![Cart Screen](assets/screenshots/Cart.png)
 

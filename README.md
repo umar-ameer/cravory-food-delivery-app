@@ -37,3 +37,19 @@ Admin can view orders, update order status, add restaurants, and add food items.
 
 ### Delivery
 Delivery partner can view active orders and update delivery status.
+
+## Screenshots
+
+![Home Screen](assets/screenshots/Homescreen.png)
+
+![Login Screen](assets/screenshots/Login.png)
+
+![Cart Screen](assets/screenshots/Cart.png)
+
+![Restaurant Screen](assets/screenshots/Restaurantscreen.png)
+
+![Track Order](assets/screenshots/TrackOrder.png)
+
+![Admin Panel](assets/screenshots/AdminPanel.png)
+
+![Delivery Panel](assets/screenshots/DeliveryPanel.png)

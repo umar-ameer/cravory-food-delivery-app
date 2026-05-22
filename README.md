@@ -46,8 +46,6 @@ Delivery partner can view active orders and update delivery status.
 
 ![Cart Screen](assets/screenshots/Cart.png)
 
-![Restaurant Screen](assets/screenshots/RestaurantScreen.png)
-
 ![Track Order](assets/screenshots/TrackOrder.png)
 
 ![Admin Panel](assets/screenshots/AdminPanel.png)
